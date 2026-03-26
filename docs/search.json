@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "slides.html#titel",
+    "href": "slides.html#titel",
+    "title": "Präsentationstitel",
+    "section": "Titel",
+    "text": "Titel\nMit Quarto Revealjs kannst du Inhalte und ausführbaren Code zu einer fertigen Präsentation zusammenfügen. Weitere Informationen zu Quarto-Präsentationen findest du unter https://quarto.org/docs/presentations/revealjs/.\nUntertitel\nUntertitel sind kleiner und gleich gross wie normaler Text. Design-Elemente wie Textgössen und Farben sind in der Datei swt.scss eingestellt."
+  },
+  {
+    "objectID": "slides.html#beispielfolie",
+    "href": "slides.html#beispielfolie",
+    "title": "Präsentationstitel",
+    "section": "Beispielfolie",
+    "text": "Beispielfolie\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna.\nMaecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna."
+  },
+  {
+    "objectID": "slides.html#zwei-inhalte",
+    "href": "slides.html#zwei-inhalte",
+    "title": "Präsentationstitel",
+    "section": "Zwei Inhalte",
+    "text": "Zwei Inhalte\n\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna.\n\nMaecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna."
+  },
+  {
+    "objectID": "slides.html#inhalt-vertikal-zentrieren",
+    "href": "slides.html#inhalt-vertikal-zentrieren",
+    "title": "Präsentationstitel",
+    "section": "Inhalt vertikal zentrieren",
+    "text": "Inhalt vertikal zentrieren\n\nDieser Text ist nach unten verschoben."
+  },
+  {
+    "objectID": "slides.html#zwei-bilder",
+    "href": "slides.html#zwei-bilder",
+    "title": "Präsentationstitel",
+    "section": "Zwei Bilder",
+    "text": "Zwei Bilder\n\n\n\n\n\n\nSwisstransplant Logo"
+  },
+  {
+    "objectID": "slides.html#listen",
+    "href": "slides.html#listen",
+    "title": "Präsentationstitel",
+    "section": "Listen",
+    "text": "Listen\n\nHerz\nLunge\nNieren\n\noder inkrementell:\n\nHerz\nLunge\nNieren"
+  },
+  {
+    "objectID": "slides.html#kleiner-text",
+    "href": "slides.html#kleiner-text",
+    "title": "Präsentationstitel",
+    "section": "Kleiner Text",
+    "text": "Kleiner Text\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna."
+  },
+  {
+    "objectID": "slides.html#abbildungen",
+    "href": "slides.html#abbildungen",
+    "title": "Präsentationstitel",
+    "section": "Abbildungen",
+    "text": "Abbildungen\nEinfache Plots mit base R.\n\n\n\n\n\n\n\nBildunterschrift"
+  },
+  {
+    "objectID": "slides.html#abbildungen-mit-text-unten",
+    "href": "slides.html#abbildungen-mit-text-unten",
+    "title": "Präsentationstitel",
+    "section": "Abbildungen mit Text unten",
+    "text": "Abbildungen mit Text unten\nAm Beispiel von ggplot2.\n\n\n\n\n\n\n\n\n\n\n\n\n\nZwei Abbildungen A und B."
+  },
+  {
+    "objectID": "slides.html#abbildung-mit-text-rechts",
+    "href": "slides.html#abbildung-mit-text-rechts",
+    "title": "Präsentationstitel",
+    "section": "Abbildung mit Text rechts",
+    "text": "Abbildung mit Text rechts\n\n\n\n\n\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna."
+  },
+  {
+    "objectID": "slides.html#tabelle",
+    "href": "slides.html#tabelle",
+    "title": "Präsentationstitel",
+    "section": "Tabelle",
+    "text": "Tabelle\n\nTabelle 1: Beschriftung\n\n\nOrgan\nVar1\nVar2\n\n\n\n\nHerz\n2.05\n5.05\n\n\nLunge\n1.37\n4.37\n\n\nNieren\n3.09\n2.09"
+  },
+  {
+    "objectID": "slides.html#tabelle-aus-daten",
+    "href": "slides.html#tabelle-aus-daten",
+    "title": "Präsentationstitel",
+    "section": "Tabelle aus Daten",
+    "text": "Tabelle aus Daten\n\n\n\n\n\n\n\nPerfusionsdauer\nSystolischer Druck\n\n\n\n\n04:12:20\n29.5\n\n\n03:01:10\n29.1\n\n\n07:27:20\n28.0"
+  },
+  {
+    "objectID": "slides.html#diagramme",
+    "href": "slides.html#diagramme",
+    "title": "Präsentationstitel",
+    "section": "Diagramme",
+    "text": "Diagramme"
+  },
+  {
+    "objectID": "slides.html#r-code-zeigen",
+    "href": "slides.html#r-code-zeigen",
+    "title": "Präsentationstitel",
+    "section": "R Code zeigen",
+    "text": "R Code zeigen\n\nIn der Regel wird R-Code nicht angezeigt, kann jedoch eingeblendet werden.\n\ntab = kidmo(D_age = 70, R_age = 65)\ntab$summary\n\n\n\n\n\nkidmo\nrank\n2-year risk\n5-year risk\n\n\n\n\n0.83\n37%\n0.0304122\n0.0584059"
+  },
+  {
+    "objectID": "slides.html#r-code-darstellen-ohne-ausführung",
+    "href": "slides.html#r-code-darstellen-ohne-ausführung",
+    "title": "Präsentationstitel",
+    "section": "R Code darstellen ohne Ausführung",
+    "text": "R Code darstellen ohne Ausführung\n\n# Comment\n1 + 1\nX = rnorm(100)"
+  },
+  {
+    "objectID": "slides.html#formeln-und-notation",
+    "href": "slides.html#formeln-und-notation",
+    "title": "Präsentationstitel",
+    "section": "Formeln und Notation",
+    "text": "Formeln und Notation\n\\[\n\\bar{x} = \\frac{1}{n} \\sum_{i=1}^{n} x_i\n\\]\n\\[\ns^2 = \\frac{1}{n-1} \\sum_{i=1}^{n} (x_i - \\bar{x})^2\n\\]"
+  }
+]
