@@ -244,6 +244,7 @@ C --> E[Result two]
 ## R Code zeigen
 
 <div class="vcenter">
+
 In der Regel wird R-Code nicht angezeigt, kann jedoch eingeblendet werden.
 
 ```{r}
